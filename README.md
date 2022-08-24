@@ -3,3 +3,5 @@
 <p align="center">
 [![rept0id StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/19425753)](https://stackoverflow.com/users/19425753/rantouan-achmet)
 </p>
+
+![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)
