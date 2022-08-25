@@ -1,6 +1,6 @@
-  <p align="center">
-    <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
-  </p>
+<p align="center">
+  <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
+</p>
   
 <p align="center">
   <picture>
@@ -9,4 +9,6 @@
   </picture>
 </p>
 
+<p align="center">
   ![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)
+</p>
