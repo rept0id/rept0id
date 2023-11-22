@@ -6,6 +6,6 @@
 </p>
 
 <p align="center"> Blog --> https://blog.simplecode.gr </p>
-<p align="center"> Nice Bookmarks --> [Simplecode Bookmarks](https://blog.simplecode.gr/?cat=3)/</p>
+<p align="center"> Nice Bookmarks --> <a href="https://blog.simplecode.gr/?cat=3">Simplecode Bookmarks</a>/</p>
 <br>
 <p align="center"> Dolibarr ERP contributions --> <a href="https://github.com/Dolibarr/dolibarr/pulls?q=is%3Apr+author%3Arept0id+is%3Aclosed+">Contributions</a> </p>
