@@ -1,5 +1,5 @@
 
-[[https://github.com/rept0id/rept0id/blob/main/assets/img/banner/github-header-image.png]]
+![](https://github.com/rept0id/rept0id/blob/main/assets/img/banner/github-header-image.png)
 
 <p align="center">
   <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
