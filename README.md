@@ -2,7 +2,7 @@
 ![](https://github.com/rept0id/rept0id/blob/main/assets/img/banner/github-header-image.png)
 
 <p align="center">
-  <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
+  <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt&qColor=%23944bcc&aColor=%bae2df" alt="README Jokes"></a>
 </p>
 
 <p align="center"> Notes --> https://github.com/rept0id/readME </p>
