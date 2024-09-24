@@ -1,6 +1,6 @@
 ![](./assets/img/hello.gif)
 
-![](https://folding-at-home-badge-backend.simplecode.gr/api/badge/rept0id/)
+![](https://folding-at-home-badge-backend.simplecode.gr/api/badge/rept0id/?cache-control=no-cache)
 
 ```json
 {
