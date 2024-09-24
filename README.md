@@ -1,5 +1,7 @@
 ![](./assets/img/hello.gif)
 
+![](https://folding-at-home-badge-backend.simplecode.gr/api/badge/rept0id/)
+
 ```json
 {
   "blog" : "https://blog.simplecode.gr",
