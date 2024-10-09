@@ -1,6 +1,8 @@
+![](https://folding-at-home-badge-backend.simplecode.gr/api/badge/rept0id/?v=2)
+
 ![](./assets/img/hello.gif)
 
-![](https://folding-at-home-badge-backend.simplecode.gr/api/badge/rept0id/?v=2)
+Hellenic Open University's PLH10 compiler on Linux : [hou-compiler-linux](https://github.com/rept0id/hou-compiler-linux)
 
 ```json
 {
